@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jpeart/NYTreact/issues"
   },
-  "homepage": "https://github.com/jpeart/NYTreact#readme"
+  "homepage": "https://github.com/jpeart/NYTreact#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
 }

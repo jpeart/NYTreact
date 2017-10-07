@@ -7,6 +7,7 @@ router.route("/")
   .post(articleController.create);
 
 //api/article/:id
+// need get post delete 
 router
   .route("/:id")
   .get(articleController.findById)

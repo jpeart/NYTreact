@@ -13,16 +13,10 @@ mongoose.connect(
 
 const bookSeed = [
   {
-    paper_id: 4003,
-    web_url: 'google.com',
-    pub_date: "11",
-    headline: "big News in tech",
-  },
-  {
     paper_id: 40231,
-    web_url: 'facebook.com',
+    web_url: 'http://nyt.com',
     pub_date: "14",
-    headline: "big News in other stuff",
+    headline: "NYT article",
   }
 ];
 
